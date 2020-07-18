@@ -27,6 +27,6 @@
 
 - Vencedores vs Perdedores:
   - Minhas raízes
-  - Percebi que não estava de fato me importando com o Gabriel
+  - Percebi que não estava de fato me importando com o Gabriel nem com ninguém
 
 - Meu talento: A crítica
