@@ -33,7 +33,6 @@ A primeira coisa a se fazer é avaliar o calendário e trello de todo mundo visu
  - Você anotou tudo que era importante hoje? Servir de lembrete (Trello, Calendar, Markdown no Github)
    
    Obs: 
-   - Rodrigo de Bem - Colocar tarefas no calendário
 
 4. Critério 7:
 
