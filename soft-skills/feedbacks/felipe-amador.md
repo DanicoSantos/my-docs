@@ -8,3 +8,7 @@
 
 **Construtivo**:
 - Seja mais objetivo. Tu fazes muito rodeio para expor teu ponto.
+
+**Para mim**:
+- Passar para o Amador as revisões de PR web
+- 

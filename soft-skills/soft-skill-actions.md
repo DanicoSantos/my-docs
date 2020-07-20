@@ -8,7 +8,7 @@
 
 **Trabalho em equipe e Feedback**:
 
- - Sempre que eu entrar ou algum membro do time entrar dar e pedir um status do que prentendemeos entregar e se estamos enfrentando algum problema
+ - Sempre que eu entrar ou algum membro do time entrar dar e pedir um status do que pretendemos entregar e se estamos enfrentando algum problema
 
  - Cobrar fortemente minha equipe, principalmente com relação às ações de melhoria acordadas pelo time em reuniões.
 
