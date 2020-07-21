@@ -6,6 +6,6 @@
 - [ ]Os componentes personalizados a partir do ***framework*** utilizado no projeto
 estão padronizados? Isto é, podem ser facilmente reutilizados, quando necessário, em outras partes do código?
 - [ ]Cada componente está devidamente documentado? Isto é, cada componente é precedido de comentários que explicam de forma objetiva o propósito/utilidade do componente?
-- [ ] Existe qualquer bloco de comentário desnecessário?
+- [ ] Existem quaisquer blocos de comentários desnecessários?
 - [ ] As regras de estilos estão todos em arquivos `.css` importados aos arquivos HTML? - Com exceção de *tags*  `<img>`
-- [ ] Existe qualquer seletor do tipo `id` em mais de um elemento HTML no mesmo arquivo?
+- [ ] Existem quaisquer seletores do tipo `id` em mais de um elemento HTML no mesmo arquivo?
