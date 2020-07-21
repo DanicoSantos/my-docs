@@ -2,7 +2,7 @@
 
 Acompanhamento dos Membros:
 
-A primeira coisa a se fazer é avaliar o calendário de todo mundo visualmente:
+A primeira coisa a se fazer é avaliar o calendário e trello de todo mundo visualmente:
 
 1. Critério 5:
 
@@ -26,12 +26,13 @@ A primeira coisa a se fazer é avaliar o calendário de todo mundo visualmente:
  - Alguma tarefa de mais de 1:30 min? Cobrar planejamento.
 
     Obs:
+    - Rodrigo de Bem - Organizar documentos no Github
 
 3. Critério 3:
   
- - Você anotou tudo que era importante hoje? Servir de lembrete (Trello, Calendar, Markdown no Github
+ - Você anotou tudo que era importante hoje? Servir de lembrete (Trello, Calendar, Markdown no Github)
    
-   Obs:
+   Obs: 
 
 4. Critério 7:
 
@@ -47,12 +48,6 @@ A primeira coisa a se fazer é avaliar o calendário de todo mundo visualmente:
 
    Obs:
 
-6. Critério 9:
-
- - Já tem planejado seu dia de amanhã? Cobrar planejamento.
- - Você já tem um tempo agendado para o dia de amanhã
-
-   Obs:
 
 ## Tabela de Acompanhamento 
 ---
