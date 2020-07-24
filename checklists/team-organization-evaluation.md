@@ -26,7 +26,7 @@ A primeira coisa a se fazer é avaliar o calendário e trello de todo mundo visu
  - Alguma tarefa de mais de 1:30 min? Cobrar planejamento.
 
     Obs:
-    - Rodrigo de Bem - Organizar documentos no Github
+    
 
 3. Critério 3:
   

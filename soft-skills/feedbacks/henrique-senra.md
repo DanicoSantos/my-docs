@@ -6,5 +6,4 @@ Apreciativo:
 - 
 
 Construtivo: 
-- Cobrar os líderes que a pauta da reunião geral esteja pronta até no máximo quinta-feira.
-- 
+- Não seja conivente com a demora  dos líderes com relação ao preenchimento da pauta. 
