@@ -10,17 +10,11 @@
 
 ## Organize
 
----
-### Anotações
-
-- Usar o VsCode para servir o website e verificar as mudanças
-
-- Usar o PyCharm para fazer as alterações
-
-- Começar pelas mais desafiadoras
-
-- Ir marcando no vscode o que eu for corrigindo
-
+- Terminar o curso de hard
+- Praticar a escrita
+- Leitura da pauta
+- Enxugar a checklist de abertura de PR web
+- Read review
+- Leitura
+- Estudos de Marketing Digital
 - 
-
-
