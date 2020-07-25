@@ -10,11 +10,11 @@
 
 ## Organize
 
-- Terminar o curso de hard
-- Praticar a escrita
-- Leitura da pauta
-- Enxugar a checklist de abertura de PR web
-- Read review
-- Leitura
-- Estudos de Marketing Digital
-- 
+- [x] Terminar o curso de hard
+- [x] Praticar a escrita
+- [x] Leitura da pauta
+- [x] Enxugar a checklist de abertura de PR web
+- [x] Read review
+- [x] Leitura
+- [x] Estudos de Marketing Digital
+ 
