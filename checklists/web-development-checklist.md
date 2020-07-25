@@ -35,8 +35,21 @@
 - [ ] Estilização dos elementos
 ---
 ## Checklist de Qualidade
-- [ ] A código HTML está seguindo a estrutura semântica correta?
-- [ ] Existem declarações ***!important*** desnecessárias nas folhas de estilo? Isto é , que podem ser substituidas
-adicionando especificidade a regra de estilo?
-- [ ] Existem quaisquer blocos de comentários desnecessários?
-- [ ] As regras de estilos estão todos em arquivos `.css` importados aos arquivos HTML? - Com exceção de *tags*  `<img>`
+### As a DEVELOPER, I confirm that I:
+- [ ] Assigned me as the responsible for this PR
+- [ ] Placed all the labels related with this PR. Ex: `ready`, `documentation`
+- [ ] Followed the **Simbiose's** standard for branch and commit naming
+- [ ] Concluded the task and achieved the goals according to the task planning I defined before starting to code
+- [ ] Merged the develop branch to this PR/branch before sending the PR for review
+- [ ] Solved all possible merge conflicts before sending the PR for review
+- [ ] Removed all unnecessary comments
+- [ ] Removed all unnecessary **!important** declarations
+- [ ] Moved all unnecessary inline style to the appropriate stylesheet file
+- [ ] Used the needed semantic HTML elements 
+- [ ] Corrected all the problems and code smells identified by the quality tools
+- [ ] Manually executed the necessary tests locally to make sure my changes didn't break anything
+- [ ] Updated the necessary documentation (Example: OpenAPI, Docstrings, Metadata Database Modeling)
+- [ ] Made the self-review of the code before sending the PR for review
+- [ ] Sent this PR for a peer-review
+- [ ] Made all the corrections appointed during the peer-review
+- [ ] Checked all GitHub Actions related to this PR that can block my merge
