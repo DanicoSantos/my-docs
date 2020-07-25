@@ -35,9 +35,9 @@
 - [ ] Estilização dos elementos
 ---
 ## Checklist de Qualidade
-### As a DEVELOPER, I confirm that I:
+#### As a DEVELOPER, I confirm that I:
 - [ ] Assigned me as the responsible for this PR
-- [ ] Placed all the labels related with this PR. Ex: `ready`, `documentation`
+- [ ] Placed all the labels related to this PR. Ex: `ready`, `documentation`
 - [ ] Followed the **Simbiose's** standard for branch and commit naming
 - [ ] Concluded the task and achieved the goals according to the task planning I defined before starting to code
 - [ ] Merged the develop branch to this PR/branch before sending the PR for review
@@ -48,8 +48,8 @@
 - [ ] Used the needed semantic HTML elements 
 - [ ] Corrected all the problems and code smells identified by the quality tools
 - [ ] Manually executed the necessary tests locally to make sure my changes didn't break anything
-- [ ] Updated the necessary documentation (Example: OpenAPI, Docstrings, Metadata Database Modeling)
+- [ ] Updated the necessary documentation (Ex: `OpenAPI`, `Docstrings`)
 - [ ] Made the self-review of the code before sending the PR for review
 - [ ] Sent this PR for a peer-review
 - [ ] Made all the corrections appointed during the peer-review
-- [ ] Checked all GitHub Actions related to this PR that can block my merge
+- [ ] Checked all **GitHub Actions** related to this PR that can block my merge
